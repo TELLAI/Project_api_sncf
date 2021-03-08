@@ -1,0 +1,5 @@
+Nom_gares_arrêt	Date d'arrivee	Date de départ	temps d'arrêt en gare
+('Lyon-Perrache (Lyon)', '2021-01-27 08:09:00', '2021-01-27 08:09:00', '0:00:00')
+('Lyon-Part-Dieu (Lyon)', '2021-01-27 07:56:00', '2021-01-27 08:01:00', '0:05:00')
+('Paris-Gare-de-Lyon (Paris)', '2021-01-27 05:52:00', '2021-01-27 05:52:00', '0:00:00')
+('Creusot - TGV (le) (Écuisses)', '2021-01-27 07:13:00', '2021-01-27 07:16:00', '0:03:00')
